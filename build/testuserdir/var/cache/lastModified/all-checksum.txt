@@ -1,0 +1,17 @@
+/Applications/NetBeans/NetBeans 9.app/Contents/Resources/NetBeans/platform=1531032438000
+cluster./Applications/NetBeans/NetBeans 9.app/Contents/Resources/NetBeans/nb=1531033020000
+cluster./Applications/NetBeans/NetBeans 9.app/Contents/Resources/NetBeans/ide=1531032742000
+cluster./Applications/NetBeans/NetBeans 9.app/Contents/Resources/NetBeans/extide=1531032746000
+cluster./Applications/NetBeans/NetBeans 9.app/Contents/Resources/NetBeans/java=1531032970000
+cluster./Applications/NetBeans/NetBeans 9.app/Contents/Resources/NetBeans/apisupport=1531033034000
+cluster./Applications/NetBeans/NetBeans 9.app/Contents/Resources/NetBeans/websvccommon=1531032754000
+cluster./Applications/NetBeans/NetBeans 9.app/Contents/Resources/NetBeans/profiler=1531033012000
+cluster./Applications/NetBeans/NetBeans 9.app/Contents/Resources/NetBeans/harness=1531032448000
+cluster./Applications/NetBeans/NetBeans 9.app/Contents/Resources/NetBeans/javafx=1531032978000
+cluster./Users/vdavid/Projects/Test/google-netbeans-toolbar/build/cluster=1540243844000
+user=1540243844000
+crc=7
+locale=en_GB
+branding=nb
+java.version=1.8.0_131
+java.vm.version=25.131-b11

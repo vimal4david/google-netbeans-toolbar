@@ -1,0 +1,476 @@
+<record>
+  <date>2018-10-22T22:31:03</date>
+  <millis>1540243863106</millis>
+  <sequence>69</sequence>
+  <level>300</level>
+  <thread>16</thread>
+  <message>SCREEN SIZE</message>
+  <param>1440</param>
+  <param>900</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:03</date>
+  <millis>1540243863107</millis>
+  <sequence>70</sequence>
+  <level>700</level>
+  <thread>16</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2018-10-22T22:31:05</date>
+  <millis>1540243865273</millis>
+  <sequence>120</sequence>
+  <logger>org.netbeans.ui.metrics.laf</logger>
+  <level>800</level>
+  <thread>16</thread>
+  <message>USG_LOOK_AND_FEEL</message>
+  <param>Aqua</param>
+  <param>Mac OS X</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:10</date>
+  <millis>1540243870380</millis>
+  <sequence>130</sequence>
+  <level>800</level>
+  <thread>15</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8589934592</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:22</date>
+  <millis>1540243882932</millis>
+  <sequence>144</sequence>
+  <logger>org.netbeans.ui.maven.project</logger>
+  <level>800</level>
+  <thread>29</thread>
+  <message>UI_MAVEN_PROJECT_OPENED</message>
+  <key>UI_MAVEN_PROJECT_OPENED</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>jar</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:22</date>
+  <millis>1540243882945</millis>
+  <sequence>145</sequence>
+  <logger>org.netbeans.ui.metrics.maven</logger>
+  <level>800</level>
+  <thread>29</thread>
+  <message>USG_PROJECT_OPEN_MAVEN</message>
+  <param>jar</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:24</date>
+  <millis>1540243884132</millis>
+  <sequence>150</sequence>
+  <logger>org.netbeans.ui.maven.project</logger>
+  <level>800</level>
+  <thread>29</thread>
+  <message>UI_MAVEN_PROJECT_OPENED</message>
+  <key>UI_MAVEN_PROJECT_OPENED</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>jar</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:24</date>
+  <millis>1540243884133</millis>
+  <sequence>151</sequence>
+  <logger>org.netbeans.ui.metrics.maven</logger>
+  <level>800</level>
+  <thread>29</thread>
+  <message>USG_PROJECT_OPEN_MAVEN</message>
+  <param>jar</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:24</date>
+  <millis>1540243884222</millis>
+  <sequence>152</sequence>
+  <logger>org.netbeans.ui.maven.project</logger>
+  <level>800</level>
+  <thread>29</thread>
+  <message>UI_MAVEN_PROJECT_OPENED</message>
+  <key>UI_MAVEN_PROJECT_OPENED</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>pom</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:24</date>
+  <millis>1540243884222</millis>
+  <sequence>153</sequence>
+  <logger>org.netbeans.ui.metrics.maven</logger>
+  <level>800</level>
+  <thread>29</thread>
+  <message>USG_PROJECT_OPEN_MAVEN</message>
+  <param>pom</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:24</date>
+  <millis>1540243884821</millis>
+  <sequence>154</sequence>
+  <logger>org.netbeans.ui.maven.project</logger>
+  <level>800</level>
+  <thread>29</thread>
+  <message>UI_MAVEN_PROJECT_OPENED</message>
+  <key>UI_MAVEN_PROJECT_OPENED</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>jar</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:24</date>
+  <millis>1540243884821</millis>
+  <sequence>155</sequence>
+  <logger>org.netbeans.ui.metrics.maven</logger>
+  <level>800</level>
+  <thread>29</thread>
+  <message>USG_PROJECT_OPEN_MAVEN</message>
+  <param>jar</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:26</date>
+  <millis>1540243886132</millis>
+  <sequence>156</sequence>
+  <logger>org.netbeans.ui.maven.project</logger>
+  <level>800</level>
+  <thread>29</thread>
+  <message>UI_MAVEN_PROJECT_OPENED</message>
+  <key>UI_MAVEN_PROJECT_OPENED</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>jar</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:26</date>
+  <millis>1540243886132</millis>
+  <sequence>157</sequence>
+  <logger>org.netbeans.ui.metrics.maven</logger>
+  <level>800</level>
+  <thread>29</thread>
+  <message>USG_PROJECT_OPEN_MAVEN</message>
+  <param>jar</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:26</date>
+  <millis>1540243886988</millis>
+  <sequence>162</sequence>
+  <logger>org.netbeans.ui.maven.project</logger>
+  <level>800</level>
+  <thread>29</thread>
+  <message>UI_MAVEN_PROJECT_OPENED</message>
+  <key>UI_MAVEN_PROJECT_OPENED</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>jar</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:26</date>
+  <millis>1540243886988</millis>
+  <sequence>163</sequence>
+  <logger>org.netbeans.ui.metrics.maven</logger>
+  <level>800</level>
+  <thread>29</thread>
+  <message>USG_PROJECT_OPEN_MAVEN</message>
+  <param>jar</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:27</date>
+  <millis>1540243887001</millis>
+  <sequence>164</sequence>
+  <logger>org.netbeans.ui.projects</logger>
+  <level>700</level>
+  <thread>29</thread>
+  <message>UI_INIT_PROJECTS</message>
+  <key>UI_INIT_PROJECTS</key>
+  <catalog>org.netbeans.modules.project.ui.Bundle</catalog>
+  <param>org.netbeans.modules.maven.NbMavenProjectImpl</param>
+  <param>NbMavenProjectImpl</param>
+  <param>6</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:27</date>
+  <millis>1540243887001</millis>
+  <sequence>165</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>800</level>
+  <thread>29</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.maven.NbMavenProjectImpl</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:27</date>
+  <millis>1540243887001</millis>
+  <sequence>166</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>800</level>
+  <thread>29</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.maven.NbMavenProjectImpl</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:27</date>
+  <millis>1540243887001</millis>
+  <sequence>167</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>800</level>
+  <thread>29</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.maven.NbMavenProjectImpl</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:27</date>
+  <millis>1540243887001</millis>
+  <sequence>168</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>800</level>
+  <thread>29</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.maven.NbMavenProjectImpl</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:27</date>
+  <millis>1540243887001</millis>
+  <sequence>169</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>800</level>
+  <thread>29</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.maven.NbMavenProjectImpl</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:27</date>
+  <millis>1540243887001</millis>
+  <sequence>170</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>800</level>
+  <thread>29</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.maven.NbMavenProjectImpl</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:27</date>
+  <millis>1540243887085</millis>
+  <sequence>171</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>29</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:27</date>
+  <millis>1540243887868</millis>
+  <sequence>176</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>20</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2018-10-22T22:31:28</date>
+  <millis>1540243888323</millis>
+  <sequence>177</sequence>
+  <logger>org.netbeans.ui.metrics.vcs</logger>
+  <level>800</level>
+  <thread>46</thread>
+  <message>USG_VCS_CLIENT</message>
+  <param>GIT</param>
+  <param>JAVALIB</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:30</date>
+  <millis>1540243890602</millis>
+  <sequence>210</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>20</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2018-10-22T22:31:34</date>
+  <millis>1540243894312</millis>
+  <sequence>428</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>20</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2018-10-22T22:31:45</date>
+  <millis>1540243905918</millis>
+  <sequence>1256</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>29</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>18830</param>
+  <param>css</param>
+  <param>1</param>
+  <param>73</param>
+  <param>SpringBinary</param>
+  <param>648</param>
+  <param>6960</param>
+  <param>TaskListIndexer</param>
+  <param>22</param>
+  <param>2</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>22</param>
+  <param>407</param>
+  <param>CopyResourcesIndexer</param>
+  <param>22</param>
+  <param>1</param>
+  <param>TLIndexer</param>
+  <param>3</param>
+  <param>949</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>22</param>
+  <param>62</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:46</date>
+  <millis>1540243906836</millis>
+  <sequence>1257</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>20</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2018-10-22T22:31:47</date>
+  <millis>1540243907018</millis>
+  <sequence>1258</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>48</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>16382</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:49</date>
+  <millis>1540243909108</millis>
+  <sequence>1259</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>48</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>1961</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:49</date>
+  <millis>1540243909729</millis>
+  <sequence>1260</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>20</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2018-10-22T22:31:50</date>
+  <millis>1540243910479</millis>
+  <sequence>1261</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>48</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>1232</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:51</date>
+  <millis>1540243911575</millis>
+  <sequence>1262</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>48</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>1000</param>
+</record>
+<record>
+  <date>2018-10-22T22:31:53</date>
+  <millis>1540243913762</millis>
+  <sequence>1263</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>20</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2018-10-22T22:31:56</date>
+  <millis>1540243916449</millis>
+  <sequence>1265</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>29</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>1799</param>
+</record>
+<record>
+  <date>2018-10-22T22:32:07</date>
+  <millis>1540243927613</millis>
+  <sequence>1271</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>44</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>901</param>
+</record>
+<record>
+  <date>2018-10-22T22:32:14</date>
+  <millis>1540243934407</millis>
+  <sequence>1275</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>20</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2018-10-22T22:32:14</date>
+  <millis>1540243934422</millis>
+  <sequence>1276</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>44</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>28504</param>
+</record>
+<record>
+  <date>2018-10-22T22:32:14</date>
+  <millis>1540243934431</millis>
+  <sequence>1277</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>44</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>8</param>
+</record>
